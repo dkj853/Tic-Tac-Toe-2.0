@@ -22,7 +22,7 @@
 ## Title: TicTacToe
 
 ## Description:
-    The purpose of this page is was to demonstrate the knowledge of the elements learned in PCC Lesson 2.
+    The purpose of this page is was to demonstrate the knowledge of the elements learned in Coding Camp Lesson 2.
 
 ## Technologies Used:
     HTML5
@@ -60,7 +60,7 @@
 
 
 
-Authors: Developers Jones, Porter, Thomas, Wuori & Mr Miller
+Authors: Developers Jones, Porter, Thomas, Wuori & Travis Miller
 
 
 
